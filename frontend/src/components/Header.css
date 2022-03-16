@@ -6,10 +6,10 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: gray;
+    background-color: #4E5340;
     padding: 5px 5px;
     height: 50px;
-    color: white;
+    color:#E2E8DD;
 }
 
 nav > img {

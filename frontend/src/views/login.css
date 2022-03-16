@@ -1,0 +1,38 @@
+
+body{
+    background-color: #E2E8DD;
+}
+
+.content{
+    margin-top: 25px;
+    display: flex;
+}
+
+.desc{
+    margin: auto;
+}
+
+main{
+    width: 50%;
+    height: auto;
+    margin: auto;
+    margin-top: 75px;
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 20px 20px 50px grey;
+    text-align: center;
+    background-color: #B7D1DA;
+}
+
+input{
+    width: 95%;
+    margin: 10px;
+    height: 40px;
+}
+
+button{
+    width: 95%;
+    height: 40px;
+}
