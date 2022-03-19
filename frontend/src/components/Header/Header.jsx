@@ -1,7 +1,6 @@
 import * as React from 'react';
 import "./Header.css";
-import LeoIcon from '../assests/leoPic.jpg'
-import Paw from '../assests/paw.png'
+import LeoIcon from '../../assests/leoPic.jpg'
 
 export default function Header() {
     

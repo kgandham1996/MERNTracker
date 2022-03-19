@@ -1,4 +1,5 @@
 import Login from "./views/Login";
+import Signup from "./views/Signup";
 import {
   BrowserRouter,
   Routes,
@@ -11,6 +12,7 @@ function App() {
     <BrowserRouter>
       <Routes>
         <Route index path="/" element={<Login />} />
+        <Route index path="/signup" element={<Signup />} />
       </Routes>
     </BrowserRouter>
   );
